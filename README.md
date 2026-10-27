@@ -4,7 +4,4 @@ Link to chrome extension
 
 [save2png.netlify.app](https://save2png.netlify.app/#home)
 
-
-<a href="https://www.youtube.com/watch?v=ZFJxuUiHSHQ" target="_blank">
-  <img src="https://img.youtube.com/vi/ZFJxuUiHSHQ/0.jpg" alt="How to download images as png from internet easily and fast?" width="100%">
-</a>
+[![How to download images as png from internet easily and fast?](https://img.youtube.com/vi/ZFJxuUiHSHQ/0.jpg)](https://www.youtube.com/watch?v=ZFJxuUiHSHQ)
